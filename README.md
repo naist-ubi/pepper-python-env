@@ -14,4 +14,9 @@ $ sudo pip install virtualenv
 $ git clone git@github.com:imkitchen/pepper-python-env.git
 $ cd pepper-python-env
 $ source bin/activate
+$ source .env
+$ pip install -e .
+$ pip install -r requirements.txt
 ```
+
+
